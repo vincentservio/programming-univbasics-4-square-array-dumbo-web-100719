@@ -1,7 +1,3 @@
-#while as the iterator 
-#take an array of nubers 
-#square each number 
-
 
 
 def square_array(array)
